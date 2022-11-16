@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="719a0602-9a60-4130-bb3a-0eb48b671ad4" name="Changes" comment="">
+    <list default="true" id="719a0602-9a60-4130-bb3a-0eb48b671ad4" name="Changes" comment="added files here to push">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datatypes/ushtrimet/gr1/BadScannerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datatypes/ushtrimet/gr1/PrintExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datatypes/ushtrimet/gr1/Prognoza1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datatypes/ushtrimet/gr1/ScannerExampleTypes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datatypes/ConstantsVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datatypes/ConstantsVariable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datatypes/DetyreKlase1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datatypes/DetyreKlase1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datatypes/PrimitiveTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datatypes/PrimitiveTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datatypes/PrimitiveTypesDeclaration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datatypes/PrimitiveTypesDeclaration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datatypes/Scope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datatypes/Scope.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datatypes/ushtrimet/ScannerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datatypes/ushtrimet/ScannerExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datatypes/ushtrimet/StringExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datatypes/ushtrimet/StringExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datatypes/ushtrimet/ScannerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datatypes/ushtrimet/gr1/ScannerExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datatypes/ushtrimet/StringExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datatypes/ushtrimet/gr1/StringExamples.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,22 +35,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Development/Learning/cacttus/grupi-1-java-basic&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "full.screen.before.presentation.mode": "false",
+    "last_opened_file_path": "C:/Development/Learning/cacttus/grupi-1-java-basic-master"
   }
-}</component>
-  <component name="RunManager" selected="Application.ScannerExample">
-    <configuration name="ConstantsVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datatypes.ConstantsVariable" />
+}]]></component>
+  <component name="RunManager" selected="Application.Prognoza1">
+    <configuration name="BadScannerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datatypes.ushtrimet.gr1.BadScannerExample" />
       <module name="grupi-1-java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datatypes.*" />
+          <option name="PATTERN" value="datatypes.ushtrimet.gr1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimitiveTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datatypes.PrimitiveTypes" />
+    <configuration name="PrintExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datatypes.ushtrimet.gr1.PrintExamples" />
       <module name="grupi-1-java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datatypes.*" />
+          <option name="PATTERN" value="datatypes.ushtrimet.gr1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimitiveTypesDeclaration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datatypes.PrimitiveTypesDeclaration" />
+    <configuration name="Prognoza1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datatypes.ushtrimet.gr1.Prognoza1" />
       <module name="grupi-1-java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datatypes.*" />
+          <option name="PATTERN" value="datatypes.ushtrimet.gr1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,11 +86,11 @@
       </method>
     </configuration>
     <configuration name="ScannerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datatypes.ushtrimet.ScannerExample" />
+      <option name="MAIN_CLASS_NAME" value="datatypes.ushtrimet.gr1.ScannerExample" />
       <module name="grupi-1-java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datatypes.ushtrimet.*" />
+          <option name="PATTERN" value="datatypes.ushtrimet.gr1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datatypes.ushtrimet.StringExamples" />
+    <configuration name="ScannerExampleTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datatypes.ushtrimet.gr1.ScannerExampleTypes" />
       <module name="grupi-1-java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datatypes.ushtrimet.*" />
+          <option name="PATTERN" value="datatypes.ushtrimet.gr1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Prognoza1" />
+        <item itemvalue="Application.PrintExamples" />
+        <item itemvalue="Application.BadScannerExample" />
+        <item itemvalue="Application.ScannerExampleTypes" />
         <item itemvalue="Application.ScannerExample" />
-        <item itemvalue="Application.StringExamples" />
-        <item itemvalue="Application.ConstantsVariable" />
-        <item itemvalue="Application.PrimitiveTypesDeclaration" />
-        <item itemvalue="Application.PrimitiveTypes" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +132,17 @@
       <workItem from="1668018450746" duration="5387000" />
       <workItem from="1668449854891" duration="4822000" />
       <workItem from="1668612483612" duration="154000" />
+      <workItem from="1668612655508" duration="77000" />
+      <workItem from="1668622068701" duration="5469000" />
     </task>
+    <task id="LOCAL-00001" summary="added files here to push">
+      <created>1668612690545</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668612690545</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,5 +158,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added files here to push" />
+    <option name="LAST_COMMIT_MESSAGE" value="added files here to push" />
   </component>
 </project>

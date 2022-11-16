@@ -1,4 +1,4 @@
-package datatypes.ushtrimet;
+package datatypes.ushtrimet.gr1;
 
 import java.util.Scanner;
 

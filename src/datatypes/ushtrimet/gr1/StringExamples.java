@@ -1,4 +1,4 @@
-package datatypes.ushtrimet;
+package datatypes.ushtrimet.gr1;
 
 public class StringExamples {
     public static void main(String[] args) {

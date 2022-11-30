@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="719a0602-9a60-4130-bb3a-0eb48b671ad4" name="Changes" comment="added files here to push">
-      <change afterPath="$PROJECT_DIR$/src/datatypes/ushtrimet/BeriTima.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datatypes/ushtrimet/EKuleta.java" afterDir="false" />
+    <list default="true" id="719a0602-9a60-4130-bb3a-0eb48b671ad4" name="Changes" comment="Beritima &amp; ekuleta">
+      <change afterPath="$PROJECT_DIR$/src/converts_casting/FloatToDoubleConvert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/converts_casting/RandomNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/converts_casting/StringToPrimitiveTypes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,20 +49,7 @@
       <recent name="datatypes.ushtrimet" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EKuleta">
-    <configuration name="BadScannerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datatypes.ushtrimet.gr1.BadScannerExample" />
-      <module name="grupi-1-java-basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="datatypes.ushtrimet.gr1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.RandomNumber">
     <configuration name="BeriTima" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="datatypes.ushtrimet.BeriTima" />
       <module name="grupi-1-java-basic" />
@@ -88,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datatypes.ushtrimet.gr1.PrintExamples" />
+    <configuration name="FloatToDoubleConvert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="converts_casting.FloatToDoubleConvert" />
       <module name="grupi-1-java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datatypes.ushtrimet.gr1.*" />
+          <option name="PATTERN" value="converts_casting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +89,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Prognoza1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datatypes.ushtrimet.gr1.Prognoza1" />
+    <configuration name="RandomNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="converts_casting.RandomNumber" />
       <module name="grupi-1-java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datatypes.ushtrimet.gr1.*" />
+          <option name="PATTERN" value="converts_casting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringToPrimitiveTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="converts_casting.StringToPrimitiveTypes" />
+      <module name="grupi-1-java-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="converts_casting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RandomNumber" />
+        <item itemvalue="Application.StringToPrimitiveTypes" />
+        <item itemvalue="Application.FloatToDoubleConvert" />
         <item itemvalue="Application.EKuleta" />
         <item itemvalue="Application.BeriTima" />
-        <item itemvalue="Application.Prognoza1" />
-        <item itemvalue="Application.PrintExamples" />
-        <item itemvalue="Application.BadScannerExample" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +140,9 @@
       <workItem from="1668622068701" duration="5500000" />
       <workItem from="1668702491857" duration="15000" />
       <workItem from="1669161155065" duration="91000" />
-      <workItem from="1669227869896" duration="3505000" />
+      <workItem from="1669227869896" duration="3849000" />
+      <workItem from="1669306727466" duration="9000" />
+      <workItem from="1669830404744" duration="5558000" />
     </task>
     <task id="LOCAL-00001" summary="added files here to push">
       <created>1668612690545</created>
@@ -162,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669161232727</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Beritima &amp; ekuleta">
+      <created>1669232961562</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669232961562</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,6 +191,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added files here to push" />
-    <option name="LAST_COMMIT_MESSAGE" value="added files here to push" />
+    <MESSAGE value="Beritima &amp; ekuleta" />
+    <option name="LAST_COMMIT_MESSAGE" value="Beritima &amp; ekuleta" />
   </component>
 </project>

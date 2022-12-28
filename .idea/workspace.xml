@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="719a0602-9a60-4130-bb3a-0eb48b671ad4" name="Changes" comment="if else , nested if, multiple ifs">
-      <change afterPath="$PROJECT_DIR$/src/selection_decision/data_comparer/CharacterComparer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/selection_decision/data_comparer/DoubleComparer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/selection_decision/data_comparer/StringComparer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/selection_decision/switch_examples/CalculatorSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/selection_decision/switch_examples/SwitchBasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/selection_decision/switch_examples/SwitchStringExample.java" afterDir="false" />
+    <list default="true" id="719a0602-9a60-4130-bb3a-0eb48b671ad4" name="Changes" comment="switch">
+      <change afterPath="$PROJECT_DIR$/src/selection_decision/string_examples/StringAssignment1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/selection_decision/string_examples/StringDeclaration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/selection_decision/string_examples/StringMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/selection_decision/switch_examples/SwitchExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,13 +51,13 @@
       <recent name="datatypes.ushtrimet" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SwitchStringExample">
-    <configuration name="CharacterComparer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="selection_decision.data_comparer.CharacterComparer" />
+  <component name="RunManager" selected="Application.StringAssignment1">
+    <configuration name="StringAssignment1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="selection_decision.string_examples.StringAssignment1" />
       <module name="grupi-1-java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="selection_decision.data_comparer.*" />
+          <option name="PATTERN" value="selection_decision.string_examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoubleComparer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="selection_decision.data_comparer.DoubleComparer" />
+    <configuration name="StringDeclaration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="selection_decision.string_examples.StringDeclaration" />
       <module name="grupi-1-java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="selection_decision.data_comparer.*" />
+          <option name="PATTERN" value="selection_decision.string_examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringComparer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="selection_decision.data_comparer.StringComparer" />
+    <configuration name="StringMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="selection_decision.string_examples.StringMethods" />
       <module name="grupi-1-java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="selection_decision.data_comparer.*" />
+          <option name="PATTERN" value="selection_decision.string_examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="selection_decision.switch_examples.SwitchBasic" />
+    <configuration name="SwitchExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="selection_decision.switch_examples.SwitchExample" />
       <module name="grupi-1-java-basic" />
       <extension name="coverage">
         <pattern>
@@ -121,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringAssignment1" />
+        <item itemvalue="Application.StringMethods" />
+        <item itemvalue="Application.StringDeclaration" />
+        <item itemvalue="Application.SwitchExample" />
         <item itemvalue="Application.SwitchStringExample" />
-        <item itemvalue="Application.SwitchBasic" />
-        <item itemvalue="Application.StringComparer" />
-        <item itemvalue="Application.CharacterComparer" />
-        <item itemvalue="Application.DoubleComparer" />
       </list>
     </recent_temporary>
   </component>
@@ -154,6 +152,7 @@
       <workItem from="1670602482217" duration="4504000" />
       <workItem from="1671034369758" duration="4892000" />
       <workItem from="1671207197339" duration="5166000" />
+      <workItem from="1672243687908" duration="6044000" />
     </task>
     <task id="LOCAL-00001" summary="added files here to push">
       <created>1668612690545</created>
@@ -211,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671040264555</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="switch">
+      <created>1672243710582</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1672243710582</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,7 +240,8 @@
     <MESSAGE value="converts &amp; cast" />
     <MESSAGE value="operators" />
     <MESSAGE value="if else , nested if, multiple ifs" />
-    <option name="LAST_COMMIT_MESSAGE" value="if else , nested if, multiple ifs" />
+    <MESSAGE value="switch" />
+    <option name="LAST_COMMIT_MESSAGE" value="switch" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

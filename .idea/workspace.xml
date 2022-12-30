@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="719a0602-9a60-4130-bb3a-0eb48b671ad4" name="Changes" comment="switch">
-      <change afterPath="$PROJECT_DIR$/src/selection_decision/string_examples/StringAssignment1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/selection_decision/string_examples/StringDeclaration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/selection_decision/string_examples/StringMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/selection_decision/switch_examples/SwitchExample.java" afterDir="false" />
+    <list default="true" id="719a0602-9a60-4130-bb3a-0eb48b671ad4" name="Changes" comment="String methods">
+      <change afterPath="$PROJECT_DIR$/src/selection_decision/string_examples/Detyra2A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/selection_decision/string_examples/Detyra2B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/selection_decision/string_examples/Detyra2C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/selection_decision/string_examples/Detyra2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/selection_decision/string_examples/Detyra3A.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/selection_decision/string_examples/StringAssignment1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/selection_decision/string_examples/StringAssignment1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +53,59 @@
       <recent name="datatypes.ushtrimet" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringAssignment1">
+  <component name="RunManager" selected="Application.Detyra2D">
+    <configuration name="Detyra2A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="selection_decision.string_examples.Detyra2A" />
+      <module name="grupi-1-java-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="selection_decision.string_examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Detyra2B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="selection_decision.string_examples.Detyra2B" />
+      <module name="grupi-1-java-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="selection_decision.string_examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Detyra2C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="selection_decision.string_examples.Detyra2C" />
+      <module name="grupi-1-java-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="selection_decision.string_examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Detyra2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="selection_decision.string_examples.Detyra2D" />
+      <module name="grupi-1-java-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="selection_decision.string_examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StringAssignment1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="selection_decision.string_examples.StringAssignment1" />
       <module name="grupi-1-java-basic" />
@@ -65,65 +119,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringDeclaration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="selection_decision.string_examples.StringDeclaration" />
-      <module name="grupi-1-java-basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="selection_decision.string_examples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="selection_decision.string_examples.StringMethods" />
-      <module name="grupi-1-java-basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="selection_decision.string_examples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SwitchExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="selection_decision.switch_examples.SwitchExample" />
-      <module name="grupi-1-java-basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="selection_decision.switch_examples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SwitchStringExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="selection_decision.switch_examples.SwitchStringExample" />
-      <module name="grupi-1-java-basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="selection_decision.switch_examples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Detyra2D" />
+        <item itemvalue="Application.Detyra2C" />
+        <item itemvalue="Application.Detyra2B" />
+        <item itemvalue="Application.Detyra2A" />
         <item itemvalue="Application.StringAssignment1" />
-        <item itemvalue="Application.StringMethods" />
-        <item itemvalue="Application.StringDeclaration" />
-        <item itemvalue="Application.SwitchExample" />
-        <item itemvalue="Application.SwitchStringExample" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +154,8 @@
       <workItem from="1670602482217" duration="4504000" />
       <workItem from="1671034369758" duration="4892000" />
       <workItem from="1671207197339" duration="5166000" />
-      <workItem from="1672243687908" duration="6044000" />
+      <workItem from="1672243687908" duration="6062000" />
+      <workItem from="1672423981525" duration="5066000" />
     </task>
     <task id="LOCAL-00001" summary="added files here to push">
       <created>1668612690545</created>
@@ -217,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672243710582</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="String methods">
+      <created>1672249796924</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1672249796924</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,7 +251,8 @@
     <MESSAGE value="operators" />
     <MESSAGE value="if else , nested if, multiple ifs" />
     <MESSAGE value="switch" />
-    <option name="LAST_COMMIT_MESSAGE" value="switch" />
+    <MESSAGE value="String methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="String methods" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

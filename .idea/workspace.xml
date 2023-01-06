@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="719a0602-9a60-4130-bb3a-0eb48b671ad4" name="Changes" comment="String methods">
-      <change afterPath="$PROJECT_DIR$/src/selection_decision/string_examples/Detyra2A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/selection_decision/string_examples/Detyra2B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/selection_decision/string_examples/Detyra2C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/selection_decision/string_examples/Detyra2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/selection_decision/string_examples/Detyra3A.java" afterDir="false" />
+    <list default="true" id="719a0602-9a60-4130-bb3a-0eb48b671ad4" name="Changes" comment="Detyra - ushtrime">
+      <change afterPath="$PROJECT_DIR$/src/loops/BadForExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/Detyra2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/NestedForExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/PrimeNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/selection_decision/string_examples/StringAssignment1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/selection_decision/string_examples/StringAssignment1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,13 +52,13 @@
       <recent name="datatypes.ushtrimet" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Detyra2D">
-    <configuration name="Detyra2A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="selection_decision.string_examples.Detyra2A" />
+  <component name="RunManager" selected="Application.Detyra2">
+    <configuration name="BadForExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops.BadForExample" />
       <module name="grupi-1-java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="selection_decision.string_examples.*" />
+          <option name="PATTERN" value="loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Detyra2B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="selection_decision.string_examples.Detyra2B" />
+    <configuration name="Detyra2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops.Detyra2" />
       <module name="grupi-1-java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="selection_decision.string_examples.*" />
+          <option name="PATTERN" value="loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Detyra2C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="selection_decision.string_examples.Detyra2C" />
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops.Factorial" />
       <module name="grupi-1-java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="selection_decision.string_examples.*" />
+          <option name="PATTERN" value="loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Detyra2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="selection_decision.string_examples.Detyra2D" />
+    <configuration name="NestedForExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops.NestedForExample1" />
       <module name="grupi-1-java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="selection_decision.string_examples.*" />
+          <option name="PATTERN" value="loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringAssignment1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="selection_decision.string_examples.StringAssignment1" />
+    <configuration name="PrimeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops.PrimeNumbers" />
       <module name="grupi-1-java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="selection_decision.string_examples.*" />
+          <option name="PATTERN" value="loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Detyra2D" />
-        <item itemvalue="Application.Detyra2C" />
-        <item itemvalue="Application.Detyra2B" />
-        <item itemvalue="Application.Detyra2A" />
-        <item itemvalue="Application.StringAssignment1" />
+        <item itemvalue="Application.Detyra2" />
+        <item itemvalue="Application.NestedForExample1" />
+        <item itemvalue="Application.BadForExample" />
+        <item itemvalue="Application.PrimeNumbers" />
+        <item itemvalue="Application.Factorial" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +154,8 @@
       <workItem from="1671034369758" duration="4892000" />
       <workItem from="1671207197339" duration="5166000" />
       <workItem from="1672243687908" duration="6062000" />
-      <workItem from="1672423981525" duration="5066000" />
+      <workItem from="1672423981525" duration="5086000" />
+      <workItem from="1673029877744" duration="3760000" />
     </task>
     <task id="LOCAL-00001" summary="added files here to push">
       <created>1668612690545</created>
@@ -227,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672249796924</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Detyra - ushtrime">
+      <created>1672429106675</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1672429106675</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,7 +259,8 @@
     <MESSAGE value="if else , nested if, multiple ifs" />
     <MESSAGE value="switch" />
     <MESSAGE value="String methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="String methods" />
+    <MESSAGE value="Detyra - ushtrime" />
+    <option name="LAST_COMMIT_MESSAGE" value="Detyra - ushtrime" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -270,6 +278,11 @@
           <url>file://$PROJECT_DIR$/src/selection_decision/TwoSort.java</url>
           <line>6</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/loops/NestedForExample1.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

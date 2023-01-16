@@ -1,4 +1,4 @@
-package loops.ushtrime;
+package loops.for_loop.ushtrime;
 
 import java.util.Scanner;
 

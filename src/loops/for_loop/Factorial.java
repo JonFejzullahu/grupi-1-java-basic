@@ -1,4 +1,4 @@
-package loops;
+package loops.for_loop;
 
 public class Factorial {
     public static void main(String[] args) {

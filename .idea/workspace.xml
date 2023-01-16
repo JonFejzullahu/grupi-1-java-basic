@@ -1,16 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="719a0602-9a60-4130-bb3a-0eb48b671ad4" name="Changes" comment="for - loop">
-      <change afterPath="$PROJECT_DIR$/src/loops/ushtrime/Detyra3A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/ushtrime/DetyraPse1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/ushtrime/EvenOddNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/ushtrime/EvenOddNumbersByChoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/ushtrime/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/ushtrime/Plotpjestuesit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/ushtrime/TabelaEShumezimit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/ushtrime/VerticalText.java" afterDir="false" />
+    <list default="true" id="719a0602-9a60-4130-bb3a-0eb48b671ad4" name="Changes" comment="for - loop examples">
+      <change afterPath="$PROJECT_DIR$/src/loops/while_loop/AverageWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/while_loop/BasicWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/while_loop/InfiniteLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/while_loop/SentinelWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/while_loop/Task1While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/while_loop/ushtrimet/Detyra1B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/while_loop/ushtrimet/Detyra2D.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loops/BadForExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/for_loop/BadForExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loops/Detyra2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/for_loop/Detyra2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loops/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/for_loop/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loops/NestedForExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/for_loop/NestedForExample1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loops/PrimeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/for_loop/PrimeNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loops/ushtrime/Detyra3A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/for_loop/ushtrime/Detyra3A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loops/ushtrime/DetyraPse1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/for_loop/ushtrime/DetyraPse1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loops/ushtrime/EvenOddNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/for_loop/ushtrime/EvenOddNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loops/ushtrime/EvenOddNumbersByChoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/for_loop/ushtrime/EvenOddNumbersByChoice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loops/ushtrime/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/for_loop/ushtrime/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loops/ushtrime/Plotpjestuesit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/for_loop/ushtrime/Plotpjestuesit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loops/ushtrime/TabelaEShumezimit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/for_loop/ushtrime/TabelaEShumezimit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loops/ushtrime/VerticalText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/for_loop/ushtrime/VerticalText.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,13 +67,13 @@
       <recent name="datatypes.ushtrimet" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DetyraPse1">
-    <configuration name="Detyra3A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loops.ushtrime.Detyra3A" />
+  <component name="RunManager" selected="Application.Detyra2D">
+    <configuration name="Detyra1B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops.while_loop.ushtrimet.Detyra1B" />
       <module name="grupi-1-java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loops.ushtrime.*" />
+          <option name="PATTERN" value="loops.while_loop.ushtrimet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DetyraPse1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loops.ushtrime.DetyraPse1" />
+    <configuration name="Detyra2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops.while_loop.ushtrimet.Detyra2D" />
       <module name="grupi-1-java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loops.ushtrime.*" />
+          <option name="PATTERN" value="loops.while_loop.ushtrimet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Plotpjestuesit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loops.ushtrime.Plotpjestuesit" />
+    <configuration name="InfiniteLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops.while_loop.InfiniteLoop" />
       <module name="grupi-1-java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loops.ushtrime.*" />
+          <option name="PATTERN" value="loops.while_loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TabelaEShumezimit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loops.ushtrime.TabelaEShumezimit" />
+    <configuration name="SentinelWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops.while_loop.SentinelWhile" />
       <module name="grupi-1-java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loops.ushtrime.*" />
+          <option name="PATTERN" value="loops.while_loop.InfiniteLoop" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VerticalText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loops.ushtrime.VerticalText" />
+    <configuration name="Task1While" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops.while_loop.Task1While" />
       <module name="grupi-1-java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loops.ushtrime.*" />
+          <option name="PATTERN" value="loops.while_loop.InfiniteLoop" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DetyraPse1" />
-        <item itemvalue="Application.VerticalText" />
-        <item itemvalue="Application.Plotpjestuesit" />
-        <item itemvalue="Application.TabelaEShumezimit" />
-        <item itemvalue="Application.Detyra3A" />
+        <item itemvalue="Application.Detyra2D" />
+        <item itemvalue="Application.Detyra1B" />
+        <item itemvalue="Application.InfiniteLoop" />
+        <item itemvalue="Application.Task1While" />
+        <item itemvalue="Application.SentinelWhile" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +171,9 @@
       <workItem from="1672243687908" duration="6062000" />
       <workItem from="1672423981525" duration="5086000" />
       <workItem from="1673029877744" duration="3867000" />
-      <workItem from="1673287830288" duration="5353000" />
+      <workItem from="1673287830288" duration="5388000" />
+      <workItem from="1673452923006" duration="19000" />
+      <workItem from="1673633533355" duration="4847000" />
     </task>
     <task id="LOCAL-00001" summary="added files here to push">
       <created>1668612690545</created>
@@ -245,7 +259,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673034718369</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="for - loop examples">
+      <created>1673293610520</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1673293610520</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,7 +293,8 @@
     <MESSAGE value="String methods" />
     <MESSAGE value="Detyra - ushtrime" />
     <MESSAGE value="for - loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="for - loop" />
+    <MESSAGE value="for - loop examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="for - loop examples" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -292,7 +314,7 @@
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/loops/NestedForExample1.java</url>
+          <url>file://$PROJECT_DIR$/src/loops/for_loop/NestedForExample1.java</url>
           <line>4</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>

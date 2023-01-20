@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="719a0602-9a60-4130-bb3a-0eb48b671ad4" name="Changes" comment="while example">
-      <change afterPath="$PROJECT_DIR$/src/loops/do_while_loop/BasicExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/do_while_loop/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/do_while_loop/PositiveNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/do_while_loop/ReverseNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/do_while_loop/ushtrimet/Detyra1B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/do_while_loop/ushtrimet/NumrimiDyftongjeve.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/do_while_loop/ushtrimet/NumroZanoretBashkPikat.java" afterDir="false" />
+    <list default="true" id="719a0602-9a60-4130-bb3a-0eb48b671ad4" name="Changes" comment="do while">
+      <change afterPath="$PROJECT_DIR$/src/loops/jump_statements/BreakAsGoTo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/jump_statements/BreakExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/jump_statements/CommonBreakAsGoTo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/jump_statements/ContinueExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +51,59 @@
       <recent name="datatypes.ushtrimet" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NumrimiDyftongjeve">
+  <component name="RunManager" selected="Application.CommonBreakAsGoTo">
+    <configuration name="BreakAsGoTo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops.jump_statements.BreakAsGoTo" />
+      <module name="grupi-1-java-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loops.jump_statements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BreakExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops.jump_statements.BreakExample" />
+      <module name="grupi-1-java-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loops.jump_statements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommonBreakAsGoTo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops.jump_statements.CommonBreakAsGoTo" />
+      <module name="grupi-1-java-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loops.jump_statements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops.jump_statements.ContinueExample" />
+      <module name="grupi-1-java-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loops.jump_statements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NumrimiDyftongjeve" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="loops.do_while_loop.ushtrimet.NumrimiDyftongjeve" />
       <module name="grupi-1-java-basic" />
@@ -68,65 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumroZanoretBashkPikat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loops.do_while_loop.ushtrimet.NumroZanoretBashkPikat" />
-      <module name="grupi-1-java-basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="loops.do_while_loop.ushtrimet.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PositiveNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loops.do_while_loop.PositiveNumber" />
-      <module name="grupi-1-java-basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="loops.do_while_loop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loops.do_while_loop.ReverseNumber" />
-      <module name="grupi-1-java-basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="loops.do_while_loop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="loops.do_while_loop.ushtrimet.Detyra1B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loops.do_while_loop.ushtrimet.Detyra1B" />
-      <module name="grupi-1-java-basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="loops.do_while_loop.ushtrimet.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CommonBreakAsGoTo" />
+        <item itemvalue="Application.BreakAsGoTo" />
+        <item itemvalue="Application.ContinueExample" />
+        <item itemvalue="Application.BreakExample" />
         <item itemvalue="Application.NumrimiDyftongjeve" />
-        <item itemvalue="Application.NumroZanoretBashkPikat" />
-        <item itemvalue="Application.loops.do_while_loop.ushtrimet.Detyra1B" />
-        <item itemvalue="Application.ReverseNumber" />
-        <item itemvalue="Application.PositiveNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +158,9 @@
       <workItem from="1673287830288" duration="5388000" />
       <workItem from="1673452923006" duration="19000" />
       <workItem from="1673633533355" duration="4847000" />
-      <workItem from="1673892739546" duration="5842000" />
+      <workItem from="1673892739546" duration="5888000" />
+      <workItem from="1674058334796" duration="15000" />
+      <workItem from="1674238082363" duration="1687000" />
     </task>
     <task id="LOCAL-00001" summary="added files here to push">
       <created>1668612690545</created>
@@ -261,7 +260,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673892768057</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="do while">
+      <created>1673898991078</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1673898991078</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -290,7 +296,8 @@
     <MESSAGE value="for - loop" />
     <MESSAGE value="for - loop examples" />
     <MESSAGE value="while example" />
-    <option name="LAST_COMMIT_MESSAGE" value="while example" />
+    <MESSAGE value="do while" />
+    <option name="LAST_COMMIT_MESSAGE" value="do while" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

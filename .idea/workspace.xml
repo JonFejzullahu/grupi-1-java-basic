@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="719a0602-9a60-4130-bb3a-0eb48b671ad4" name="Changes" comment="do while">
-      <change afterPath="$PROJECT_DIR$/src/loops/jump_statements/BreakAsGoTo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/jump_statements/BreakExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/jump_statements/CommonBreakAsGoTo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/jump_statements/ContinueExample.java" afterDir="false" />
+    <list default="true" id="719a0602-9a60-4130-bb3a-0eb48b671ad4" name="Changes" comment="jump statements">
+      <change afterPath="$PROJECT_DIR$/src/loops/jump_statements/ReturnExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +48,7 @@
       <recent name="datatypes.ushtrimet" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CommonBreakAsGoTo">
+  <component name="RunManager" selected="Application.ReturnExample">
     <configuration name="BreakAsGoTo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="loops.jump_statements.BreakAsGoTo" />
       <module name="grupi-1-java-basic" />
@@ -104,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumrimiDyftongjeve" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loops.do_while_loop.ushtrimet.NumrimiDyftongjeve" />
+    <configuration name="ReturnExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops.jump_statements.ReturnExample" />
       <module name="grupi-1-java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loops.do_while_loop.ushtrimet.*" />
+          <option name="PATTERN" value="loops.jump_statements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReturnExample" />
         <item itemvalue="Application.CommonBreakAsGoTo" />
         <item itemvalue="Application.BreakAsGoTo" />
         <item itemvalue="Application.ContinueExample" />
         <item itemvalue="Application.BreakExample" />
-        <item itemvalue="Application.NumrimiDyftongjeve" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +157,7 @@
       <workItem from="1673633533355" duration="4847000" />
       <workItem from="1673892739546" duration="5888000" />
       <workItem from="1674058334796" duration="15000" />
-      <workItem from="1674238082363" duration="1687000" />
+      <workItem from="1674238082363" duration="1905000" />
     </task>
     <task id="LOCAL-00001" summary="added files here to push">
       <created>1668612690545</created>
@@ -267,7 +264,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673898991078</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="jump statements">
+      <created>1674239878038</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1674239878038</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -297,7 +301,8 @@
     <MESSAGE value="for - loop examples" />
     <MESSAGE value="while example" />
     <MESSAGE value="do while" />
-    <option name="LAST_COMMIT_MESSAGE" value="do while" />
+    <MESSAGE value="jump statements" />
+    <option name="LAST_COMMIT_MESSAGE" value="jump statements" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

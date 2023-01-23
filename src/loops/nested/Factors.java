@@ -1,5 +1,7 @@
 package loops.nested;
 
+import methods.MyClass;
+
 import java.util.Scanner;
 
 public class Factors {

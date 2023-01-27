@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="719a0602-9a60-4130-bb3a-0eb48b671ad4" name="Changes" comment="Debugging">
-      <change afterPath="$PROJECT_DIR$/src/methods/Kindness.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methods/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methods/NewClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methods/TestMyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methods/ushtrimet/Detyrat.java" afterDir="false" />
+    <list default="true" id="719a0602-9a60-4130-bb3a-0eb48b671ad4" name="Changes" comment="Metodat">
+      <change afterPath="$PROJECT_DIR$/src/methods/ushtrimet/Detyra1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/ushtrimet/DetyraPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/ushtrimet/DetyraVowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/ushtrimet/PasswordComplex.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loops/nested/Factors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/nested/Factors.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "full.screen.before.presentation.mode": "true",
+    "full.screen.before.presentation.mode": "false",
     "last_opened_file_path": "C:/Development/Learning/cacttus/grupi-1-java-basic/src/datatypes/ushtrimet",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
@@ -53,7 +51,46 @@
       <recent name="datatypes.ushtrimet" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Detyrat">
+  <component name="RunManager" selected="Application.PasswordComplex">
+    <configuration name="Detyra1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="methods.ushtrimet.Detyra1" />
+      <module name="grupi-1-java-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="methods.ushtrimet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DetyraPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="methods.ushtrimet.DetyraPrime" />
+      <module name="grupi-1-java-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="methods.ushtrimet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DetyraVowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="methods.ushtrimet.DetyraVowels" />
+      <module name="grupi-1-java-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="methods.ushtrimet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Detyrat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="methods.ushtrimet.Detyrat" />
       <module name="grupi-1-java-basic" />
@@ -67,51 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Factors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loops.nested.Factors" />
+    <configuration name="PasswordComplex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="methods.ushtrimet.PasswordComplex" />
       <module name="grupi-1-java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loops.nested.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Kindness" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="methods.Kindness" />
-      <module name="grupi-1-java-basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="methods.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TaxRateCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loops.nested.TaxRateCalculator" />
-      <module name="grupi-1-java-basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="loops.nested.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestMyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="methods.TestMyClass" />
-      <module name="grupi-1-java-basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="methods.*" />
+          <option name="PATTERN" value="methods.ushtrimet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PasswordComplex" />
+        <item itemvalue="Application.DetyraPrime" />
+        <item itemvalue="Application.DetyraVowels" />
+        <item itemvalue="Application.Detyra1" />
         <item itemvalue="Application.Detyrat" />
-        <item itemvalue="Application.Kindness" />
-        <item itemvalue="Application.TestMyClass" />
-        <item itemvalue="Application.Factors" />
-        <item itemvalue="Application.TaxRateCalculator" />
       </list>
     </recent_temporary>
   </component>
@@ -165,6 +163,7 @@
       <workItem from="1674238082363" duration="5831000" />
       <workItem from="1674289751665" duration="30000" />
       <workItem from="1674295810343" duration="7074000" />
+      <workItem from="1674498151449" duration="5219000" />
     </task>
     <task id="LOCAL-00001" summary="added files here to push">
       <created>1668612690545</created>
@@ -292,7 +291,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674244448988</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Metodat">
+      <created>1674498176298</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1674498176298</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -325,7 +331,8 @@
     <MESSAGE value="jump statements" />
     <MESSAGE value="Return example" />
     <MESSAGE value="Debugging" />
-    <option name="LAST_COMMIT_MESSAGE" value="Debugging" />
+    <MESSAGE value="Metodat" />
+    <option name="LAST_COMMIT_MESSAGE" value="Metodat" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

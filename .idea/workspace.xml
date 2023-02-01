@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="719a0602-9a60-4130-bb3a-0eb48b671ad4" name="Changes" comment="Metodat">
-      <change afterPath="$PROJECT_DIR$/src/methods/ushtrimet/Detyra1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methods/ushtrimet/DetyraPrime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methods/ushtrimet/DetyraVowels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methods/ushtrimet/PasswordComplex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays_matrixes/DeclareArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays_matrixes/Filtrimet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays_matrixes/IntArray1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays_matrixes/IntArray2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays_matrixes/Letrat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays_matrixes/MemoryOverflow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,17 +34,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "full.screen.before.presentation.mode": "false",
-    "last_opened_file_path": "C:/Development/Learning/cacttus/grupi-1-java-basic/src/datatypes/ushtrimet",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Development/Learning/cacttus/grupi-1-java-basic/src/datatypes/ushtrimet&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Development\Learning\cacttus\grupi-1-java-basic\src\datatypes\ushtrimet" />
@@ -51,13 +53,13 @@
       <recent name="datatypes.ushtrimet" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PasswordComplex">
-    <configuration name="Detyra1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="methods.ushtrimet.Detyra1" />
+  <component name="RunManager" selected="Application.Filtrimet">
+    <configuration name="Filtrimet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays_matrixes.Filtrimet" />
       <module name="grupi-1-java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="methods.ushtrimet.*" />
+          <option name="PATTERN" value="arrays_matrixes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DetyraPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="methods.ushtrimet.DetyraPrime" />
+    <configuration name="IntArray1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays_matrixes.IntArray1" />
       <module name="grupi-1-java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="methods.ushtrimet.*" />
+          <option name="PATTERN" value="arrays_matrixes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DetyraVowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="methods.ushtrimet.DetyraVowels" />
+    <configuration name="IntArray2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays_matrixes.IntArray2" />
       <module name="grupi-1-java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="methods.ushtrimet.*" />
+          <option name="PATTERN" value="arrays_matrixes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Detyrat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="methods.ushtrimet.Detyrat" />
+    <configuration name="Letrat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays_matrixes.Letrat" />
       <module name="grupi-1-java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="methods.ushtrimet.*" />
+          <option name="PATTERN" value="arrays_matrixes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PasswordComplex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="methods.ushtrimet.PasswordComplex" />
+    <configuration name="MemoryOverflow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays_matrixes.MemoryOverflow" />
       <module name="grupi-1-java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="methods.ushtrimet.*" />
+          <option name="PATTERN" value="arrays_matrixes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PasswordComplex" />
-        <item itemvalue="Application.DetyraPrime" />
-        <item itemvalue="Application.DetyraVowels" />
-        <item itemvalue="Application.Detyra1" />
-        <item itemvalue="Application.Detyrat" />
+        <item itemvalue="Application.Filtrimet" />
+        <item itemvalue="Application.Letrat" />
+        <item itemvalue="Application.IntArray2" />
+        <item itemvalue="Application.IntArray1" />
+        <item itemvalue="Application.MemoryOverflow" />
       </list>
     </recent_temporary>
   </component>
@@ -164,6 +166,8 @@
       <workItem from="1674289751665" duration="30000" />
       <workItem from="1674295810343" duration="7074000" />
       <workItem from="1674498151449" duration="5219000" />
+      <workItem from="1674841771960" duration="4308000" />
+      <workItem from="1675268090651" duration="12000" />
     </task>
     <task id="LOCAL-00001" summary="added files here to push">
       <created>1668612690545</created>
@@ -298,7 +302,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674498176298</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Metodat">
+      <created>1674841777851</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1674841777851</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -355,6 +366,11 @@
           <url>file://$PROJECT_DIR$/src/loops/for_loop/NestedForExample1.java</url>
           <line>4</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrays_matrixes/MemoryOverflow.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

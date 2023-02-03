@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="719a0602-9a60-4130-bb3a-0eb48b671ad4" name="Changes" comment="arrays">
-      <change afterPath="$PROJECT_DIR$/src/arrays_matrixes/enhanced_for/Detyra1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays_matrixes/enhanced_for/Detyra2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays_matrixes/enhanced_for/EnhancedForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays_matrixes/enhanced_for/ForEachVowels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays_matrixes/mutlidimensional_array/DeclarationOfMulti.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays_matrixes/mutlidimensional_array/Detyra1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays_matrixes/mutlidimensional_array/MatrixPrinting.java" afterDir="false" />
+    <list default="true" id="719a0602-9a60-4130-bb3a-0eb48b671ad4" name="Changes" comment="arrays ushtrimet">
+      <change afterPath="$PROJECT_DIR$/src/arrays_matrixes/mutlidimensional_array/Detyra2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays_matrixes/mutlidimensional_array/ushtrimet/Detyra1B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays_matrixes/mutlidimensional_array/ushtrimet/Detyra1BGood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays_matrixes/mutlidimensional_array/ushtrimet/Detyra1BVer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays_matrixes/mutlidimensional_array/ushtrimet/Detyra2A.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,13 +52,13 @@
       <recent name="datatypes.ushtrimet" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.arrays_matrixes.mutlidimensional_array.Detyra1">
-    <configuration name="Detyra1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays_matrixes.enhanced_for.Detyra1" />
+  <component name="RunManager" selected="Application.Detyra2A">
+    <configuration name="Detyra1B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays_matrixes.mutlidimensional_array.ushtrimet.Detyra1B" />
       <module name="grupi-1-java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays_matrixes.enhanced_for.*" />
+          <option name="PATTERN" value="arrays_matrixes.mutlidimensional_array.ushtrimet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Detyra2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays_matrixes.enhanced_for.Detyra2" />
+    <configuration name="Detyra1BGood" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays_matrixes.mutlidimensional_array.ushtrimet.Detyra1BGood" />
       <module name="grupi-1-java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays_matrixes.enhanced_for.*" />
+          <option name="PATTERN" value="arrays_matrixes.mutlidimensional_array.ushtrimet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForEachVowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays_matrixes.enhanced_for.ForEachVowels" />
+    <configuration name="Detyra1BVer2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays_matrixes.mutlidimensional_array.ushtrimet.Detyra1BVer2" />
       <module name="grupi-1-java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays_matrixes.enhanced_for.*" />
+          <option name="PATTERN" value="arrays_matrixes.mutlidimensional_array.ushtrimet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MatrixPrinting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays_matrixes.mutlidimensional_array.MatrixPrinting" />
+    <configuration name="Detyra2A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays_matrixes.mutlidimensional_array.ushtrimet.Detyra2A" />
       <module name="grupi-1-java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays_matrixes.mutlidimensional_array.*" />
+          <option name="PATTERN" value="arrays_matrixes.mutlidimensional_array.ushtrimet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,8 +105,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="arrays_matrixes.mutlidimensional_array.Detyra1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays_matrixes.mutlidimensional_array.Detyra1" />
+    <configuration name="arrays_matrixes.mutlidimensional_array.Detyra2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays_matrixes.mutlidimensional_array.Detyra2" />
       <module name="grupi-1-java-basic" />
       <extension name="coverage">
         <pattern>
@@ -122,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.arrays_matrixes.mutlidimensional_array.Detyra1" />
-        <item itemvalue="Application.MatrixPrinting" />
-        <item itemvalue="Application.Detyra2" />
-        <item itemvalue="Application.Detyra1" />
-        <item itemvalue="Application.ForEachVowels" />
+        <item itemvalue="Application.Detyra2A" />
+        <item itemvalue="Application.Detyra1BGood" />
+        <item itemvalue="Application.Detyra1BVer2" />
+        <item itemvalue="Application.Detyra1B" />
+        <item itemvalue="Application.arrays_matrixes.mutlidimensional_array.Detyra2" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +167,10 @@
       <workItem from="1674498151449" duration="5219000" />
       <workItem from="1674841771960" duration="4308000" />
       <workItem from="1675268090651" duration="12000" />
-      <workItem from="1675268119486" duration="4076000" />
+      <workItem from="1675268119486" duration="4277000" />
+      <workItem from="1675440057226" duration="20000" />
+      <workItem from="1675440100312" duration="6000" />
+      <workItem from="1675440521979" duration="5715000" />
     </task>
     <task id="LOCAL-00001" summary="added files here to push">
       <created>1668612690545</created>
@@ -318,7 +319,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675268130733</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="arrays ushtrimet">
+      <created>1675273694149</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1675273694149</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -353,7 +361,8 @@
     <MESSAGE value="Debugging" />
     <MESSAGE value="Metodat" />
     <MESSAGE value="arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="arrays" />
+    <MESSAGE value="arrays ushtrimet" />
+    <option name="LAST_COMMIT_MESSAGE" value="arrays ushtrimet" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

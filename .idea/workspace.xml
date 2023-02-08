@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="719a0602-9a60-4130-bb3a-0eb48b671ad4" name="Changes" comment="arrays ushtrimet">
-      <change afterPath="$PROJECT_DIR$/src/arrays_matrixes/mutlidimensional_array/Detyra2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays_matrixes/mutlidimensional_array/ushtrimet/Detyra1B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays_matrixes/mutlidimensional_array/ushtrimet/Detyra1BGood.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays_matrixes/mutlidimensional_array/ushtrimet/Detyra1BVer2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays_matrixes/mutlidimensional_array/ushtrimet/Detyra2A.java" afterDir="false" />
+    <list default="true" id="719a0602-9a60-4130-bb3a-0eb48b671ad4" name="Changes" comment="ushtrime me matrix, array multidimensional">
+      <change afterPath="$PROJECT_DIR$/src/workshop/Ushtrime.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +48,7 @@
       <recent name="datatypes.ushtrimet" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Detyra2A">
+  <component name="RunManager" selected="Application.Ushtrime">
     <configuration name="Detyra1B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrays_matrixes.mutlidimensional_array.ushtrimet.Detyra1B" />
       <module name="grupi-1-java-basic" />
@@ -105,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="arrays_matrixes.mutlidimensional_array.Detyra2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays_matrixes.mutlidimensional_array.Detyra2" />
+    <configuration name="Ushtrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="workshop.Ushtrime" />
       <module name="grupi-1-java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays_matrixes.mutlidimensional_array.*" />
+          <option name="PATTERN" value="workshop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ushtrime" />
         <item itemvalue="Application.Detyra2A" />
         <item itemvalue="Application.Detyra1BGood" />
         <item itemvalue="Application.Detyra1BVer2" />
         <item itemvalue="Application.Detyra1B" />
-        <item itemvalue="Application.arrays_matrixes.mutlidimensional_array.Detyra2" />
       </list>
     </recent_temporary>
   </component>
@@ -171,6 +167,8 @@
       <workItem from="1675440057226" duration="20000" />
       <workItem from="1675440100312" duration="6000" />
       <workItem from="1675440521979" duration="5715000" />
+      <workItem from="1675452911848" duration="25000" />
+      <workItem from="1675873376821" duration="1470000" />
     </task>
     <task id="LOCAL-00001" summary="added files here to push">
       <created>1668612690545</created>
@@ -326,7 +324,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675273694149</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="ushtrime me matrix, array multidimensional">
+      <created>1675452931102</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1675452931102</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -362,7 +367,8 @@
     <MESSAGE value="Metodat" />
     <MESSAGE value="arrays" />
     <MESSAGE value="arrays ushtrimet" />
-    <option name="LAST_COMMIT_MESSAGE" value="arrays ushtrimet" />
+    <MESSAGE value="ushtrime me matrix, array multidimensional" />
+    <option name="LAST_COMMIT_MESSAGE" value="ushtrime me matrix, array multidimensional" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -39,6 +39,57 @@ public class Ushtrime {
             }
             System.out.println();
         }
+
+        System.out.println("DETYRAT");
+        System.out.println("--------------------------------------");
+        System.out.println("Zgjidh studentine per me pa mesataren: ");
+        String studentName = reader.nextLine();
+
+        int stundetIndex = -1; // -1 nenkupton qe nuk gjindet
+
+        for (int i = 0; i < students.length; i++) {
+            if (studentName.equals(students[i])) {
+                stundetIndex = i;
+                break;
+            }
+        }
+
+        if (stundetIndex == -1) {
+            System.out.println("Studenti i kerkuar nuk studion te na, ke gabu kolegjin!");
+        } else {
+            System.out.printf("Certifikata e studentit %s %n", students[stundetIndex]);
+            for (int i = 0; i < grades[stundetIndex].length; i++) {
+                System.out.printf("%s: %d %n", subjects[i], grades[stundetIndex][i]);
+            }
+        }
+
+
+        System.out.println("---------------------------------------");
+        System.out.println("Zgjidhni lenden me pa mesataren e vlersimit per te: ");
+        String subjectName = reader.nextLine();
+
+        int subjectIndex = -1;
+
+        for (int i = 0; i < subjects.length; i++) {
+            if (subjectName.equals(subjects[i])) {
+                subjectIndex = i;
+                break;
+            }
+        }
+        if (subjectIndex != -1) {
+            double sum = 0.0;
+
+            for (int i = 0; i < noStudents; i++) {
+                sum += grades[i][subjectIndex];
+            }
+
+            double average = sum / noStudents;
+            System.out.printf("Nota mesatare per %s eshte: %.2f%n", subjectName, average);
+
+        } else {
+            System.out.println("Lenda nuk eshte pjese e kurikules se kolegjit!");
+        }
+
     }
 }
 
